@@ -6,7 +6,6 @@ services:
     volumes:
       - ./config:/config
       - /etc/localtime:/etc/localtime:ro
-    user: 1000:1000 
     restart: always
     privileged: true
     network_mode: host
