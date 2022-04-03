@@ -38,7 +38,7 @@ i2c:
   id: bus_a
 
 uart:
-  tx_pin: 12
+  tx_pin: 13
   rx_pin: 14
   baud_rate: 9600
 
@@ -99,3 +99,4 @@ text_sensor:
     iaq_accuracy:
       # IAQ accuracy as a text value of Stabilizing, Uncertain, Calibrating, Calibrated
       name: "BME680 IAQ Accuracy"
+
