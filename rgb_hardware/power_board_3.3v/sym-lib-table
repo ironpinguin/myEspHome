@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Linear_Regulator_Project")(type "KiCad")(uri "${KIPRJMOD}/Linear_Regulator_Project.kicad_sym")(options "")(descr ""))
+)
