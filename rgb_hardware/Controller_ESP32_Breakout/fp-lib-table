@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "AZ_Delivery")(type "KiCad")(uri "${KIPRJMOD}/AZ_Delivery.pretty")(options "")(descr ""))
+  (lib (name "Connector_Project")(type "KiCad")(uri "${KIPRJMOD}/Connector_Project.pretty")(options "")(descr ""))
+)
